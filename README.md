@@ -2,7 +2,7 @@
 
 ### ABOUT THE PROJECT:
 
-This research is conducted to examine the impact of the **COVID-19** epidemic on global health using **SQL**. The project aims to analyze publicly available dataset in order to extract valuable insights regarding the extent and severity of the virus.
+This research is conducted to examine the impact of the **COVID-19** pandemic on global health using **SQL**. The project aims to analyze publicly available dataset in order to extract valuable insights regarding the extent and severity of the virus.
 
 During the [**data exploration phase**](https://nlaeeq.github.io/Covid19_DataExploration/), an unstructured analysis of a significant COVID-19 dataset was performed to detect preliminary patterns, characteristics, and focal points.
 
