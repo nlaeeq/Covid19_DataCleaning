@@ -12,7 +12,7 @@ In the **data cleaning phase** of this project, my priority is to verify the int
 
 ### DATASET OVERVIEW:
 
-For this project, I have used [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths) dataset, which has been published on Our World In Data website, completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).  This dataset updates on weekly basis and includes values since 3rd January 2020.
+For this project, I have used [**Coronavirus (COVID-19) Deaths**](https://ourworldindata.org/covid-deaths) dataset, which has been published on Our World In Data website, completely open access under the [**Creative Commons BY license**](https://creativecommons.org/licenses/by/4.0/).  This dataset updates on weekly basis and includes values since 3rd January 2020.
 
 **Citation:**
 
@@ -22,7 +22,7 @@ Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Gia
 
 ### DATA CLEANING:
 
-Below is the working that I have done in Microsoft SQL Server to clean the dataset.
+Below is the working that I have done in **SQL Server Management Studio** to clean the dataset.
 
 <style type="text/css">
   .gist {width:100% !important;}
