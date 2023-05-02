@@ -22,7 +22,7 @@ Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Gia
 
 ### DATA CLEANING:
 
-Below is the working that I have done in **SQL Server Management Studio** to clean the dataset.
+Below is the working that I have done in ** Microsoft SQL Server Management Studio** to clean the dataset.
 
 <style type="text/css">
   .gist {width:100% !important;}
@@ -56,11 +56,15 @@ These rows have been filtered out of the dataset.
 
 **Filtering out locations which are part of United Kingdom:**
 
-England, Northern Ireland, Scotland and Wales, these all are the part of United Kingdom. However they also have been listed separately in the Location column. So we will filter out all these rows, as no data has been entered against these locations.
+England, Northern Ireland, Scotland and Wales, these all are the part of United Kingdom. However they also have been listed separately in the Location column. So I will filter out all these rows, as no data has been entered against these locations.
 
 **Checking for duplicate values and Country data:**
 
-There are 195 countries in the world. However, the dataset shows a total of 249 rows. Upon investigation, it has been found that few territories are added separately in the dataset, which collectively forms the part of a country, as per the above mentioned example of United Kingdom. Moreover, a number of territories exist that lack official recognition as independent nations, yet have provided Covid-19 related information to the World Health Organization.
+There are 195 countries in the world. However, the dataset shows a total of 249 rows.
+
+Upon investigation, I discovered some cases where the continent has been listed as a country. Further I have also found that few territories are added separately in the dataset, which collectively forms the part of a country, as per the above mentioned example of United Kingdom. 
+
+Moreover, a number of territories exist that lack official recognition as independent nations, yet have provided Covid-19 related information to the World Health Organization.
 
 **Filtering other Countries and territories having NULL values:**
 
