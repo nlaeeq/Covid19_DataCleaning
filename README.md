@@ -22,7 +22,7 @@ Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Gia
 
 ### DATA CLEANING:
 
-Below is the working that I have done in ** Microsoft SQL Server Management Studio** to clean the dataset.
+Below is the working that I have done in **Microsoft SQL Server Management Studio** to clean the dataset.
 
 <style type="text/css">
   .gist {width:100% !important;}
